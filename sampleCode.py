@@ -3,7 +3,7 @@ input_a = input()
 if input_a in my_dict:
     print("present")
 else: 
-    print("im how issue1 wrote me")
+    print("im how main wrote me the second time")
      
     
     
