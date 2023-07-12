@@ -3,7 +3,7 @@ input_a = input()
 if input_a in my_dict:
     print("present")
 else: 
-    print("not present in here")
+    print("not present in this dictionary")
     
     
     
